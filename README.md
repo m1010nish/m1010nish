@@ -5,7 +5,8 @@
 - Version Control: Git
 
 🎓 **Education:**
-- [Your Degree and University]
+- BCA from Babasaheb Bhimrao Ambedkar University
+- MCA pursuing at Tripura University
 
 🌐 **Projects Highlights:**
 1. [Project Name 1] - Description and link
@@ -17,7 +18,7 @@
 - [Repository Name 2] - Contribution details
 
 📈 **GitHub Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+![M1010NISH](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
 🌟 **Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/m1010nish)
