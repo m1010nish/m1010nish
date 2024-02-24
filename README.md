@@ -1,16 +1,26 @@
-### Hi there 👋
+🔧 **Tech Stack:**
+- Frontend: ReactJS, HTML, CSS, JavaScript
+- Backend: CodeIgniter, Laravel, PHP, MySQL
+- UI/UX Design: Figma
+- Version Control: Git
 
-<!--
-**m1010nish/m1010nish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education:**
+- [Your Degree and University]
 
-Here are some ideas to get you started:
+🌐 **Projects Highlights:**
+1. [Project Name 1] - Description and link
+2. [Project Name 2] - Description and link
+3. [Project Name 3] - Description and link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 **Open Source Contributions:**
+- [Repository Name 1] - Contribution details
+- [Repository Name 2] - Contribution details
+
+📈 **GitHub Stats:**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+
+🌟 **Connect with Me:**
+- [LinkedIn](https://www.linkedin.com/in/m1010nish)
+- [Portfolio/Personal Website](http://portfolio.therats.tech)
+
+Let's collaborate and build something awesome together! Feel free to explore my repositories and reach out for any inquiries or exciting projects.
