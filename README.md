@@ -1,70 +1,69 @@
-# Hi, I'm Manish Kumar 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manish%20Kumar-blue)](https://linkedin.com/m1010nish) [![GitHub](https://img.shields.io/badge/GitHub-m1010nish-green)](https://github.com/m1010nish)
+# Hi, I'm Manish 🚀
 
-📞 +91 9643636068 | ✉ manishsinghjnv11@gmail.com
+Hello! I'm Manish Kumar, a passionate data analyst and developer with a strong foundation in statistical analysis, machine learning, and full-stack web development. Here, you'll find an overview of my projects, experiences, and contributions.
 
-## Education
-- **Jawahar Navodaya Vidyalaya** (2017)
-  - 10th (GPA: 3.12 / 4.0), Arwal, Bihar
-- **Jawahar Navodaya Vidyalaya** (2019)
-  - 12th (Information Technology) (GPA: 3.28 / 4.0), Katihar, Bihar
-- **Babasaheb Bhimrao Ambedkar University** (2022)
-  - Bachelor in Computer Applications (GPA: 3.2 / 4.0), Lucknow, U.P.
-- **Tripura University** (2024) *(Currently Pursuing)*
-  - Master in Computer Applications, Agartala, Tripura
+## 🎓 Education
 
-## Experience
-### Freelance Data Analyst | Jan 2024 – Present
-#### Flood Prediction Using Machine Learning
-- Proficient in data exploration and preprocessing using Python (Pandas, NumPy, Seaborn).
-- Applied data visualization techniques, including heatmaps and histograms.
-- Implemented and compared classification algorithms (KNN, Logistic Regression, Decision Tree, SVM, Random Forest).
-- Thorough model evaluation with metrics like accuracy, precision, recall, and F1-score.
-- Engaged in hyperparameter tuning for optimal model performance.
+- **Master in Computer Applications (Currently Pursuing)**
+  - Tripura University, Agartala, Tripura
 
-## Freelance Full Stack Web Developer | Jan 2021 – Present
-- Developed Dynamic and Responsive Web Applications using ReactJS, HTML, CSS, and JavaScript.
-- Utilized CodeIgniter and Laravel for Backend Development.
-- Managed End-to-End Project Development, from Conceptualization to Deployment.
-- Utilized Figma for UI/UX design, resulting in Enhanced User Experiences.
+## 🔧 Tech Stack
 
-## Projects
-### Shop Management Website | JavaScript, Firebase, HTML, CSS, Bootstrap
-- Developed the entire web application focusing on efficient data management.
-- Implemented interactive features using JavaScript for enhanced user experience.
-- Utilized Firebase for seamless data storage and synchronization.
-- Created a user-friendly interface with HTML and CSS.
+### Data Analytics
+- Languages: Python (Pandas, NumPy), SQL
+- Tools: PySpark, Matplotlib, Seaborn
+- Data Visualization: Power BI
+- Version Control: Git
 
-### Tourism Website | CodeIgniter, PHP, MySQL, JavaScript, HTML, CSS, Bootstrap
-- Implemented CodeIgniter and PHP for the backend, ensuring secure and efficient data processing.
-- Utilized MySQL for the storage and retrieval of data related to travel goods, bike bookings, car rentals, cruise reservations, etc.
-- Integrated JavaScript for interactive features, enhancing the overall functionality of the website.
-- Crafted a visually appealing and user-friendly frontend using HTML and CSS.
+### Full Stack Web Development
+- Frontend: ReactJS, HTML, CSS, JavaScript
+- Backend: CodeIgniter, Laravel, PHP, MySQL
+- UI/UX Design: Figma
+- Version Control: Git
 
-### E-Commerce Website | CodeIgniter, PHP, MySQL, JavaScript, HTML, CSS, Bootstrap, PayU Payment Gateway
-- Implemented CodeIgniter and PHP to create a reliable and scalable backend system.
-- Utilized MySQL for efficient storage and retrieval of product information, user data, and order details.
-- Integrated JavaScript for interactive frontend features.
-- Designed a visually appealing and responsive user interface using HTML, CSS, and Bootstrap.
-- Integrated the PayU Payment Gateway for secure online transactions.
+## 📈 Projects
 
-## Academic Experience
-### Data Analysis On Earthquake Dataset (2023) | Python, PySparks, SQL, Matplotlib, Seaborn
-- In-depth analysis of global earthquake data using PySpark and Pandas.
-- Utilized descriptive statistics, time trend analysis, and correlation studies.
-- Collaborated with interdisciplinary teams, presenting findings effectively.
+### 1. Flood Prediction Using Machine Learning 🌊🤖
 
-### Data Analysis On Suicide Dataset (2001-2012) | CPython, PySparks, SQL, Matplotlib, Seaborn
-- Comprehensive analysis of suicide data in India using Pandas and PySpark.
-- Employed Pandas for initial exploratory data analysis and PySpark for scalable computing.
-- Applied PySpark’s capabilities for clustering analysis (K-means).
+- **Objective:** Predicting floods based on historical data and weather conditions.
+- **Techniques:**
+  - Data exploration and preprocessing using Python (Pandas, NumPy, Seaborn).
+  - Applied data visualization techniques, including heatmaps and histograms.
+  - Implemented and compared classification algorithms (KNN, Logistic Regression, Decision Tree, SVM, Random Forest).
+  - Thorough model evaluation with metrics like accuracy, precision, recall, and F1-score.
+  - Hyperparameter tuning for optimal model performance.
+- **Outcome:** ![Classification Algorithms](images/flood_prediction_algorithms.png)
 
-## Technical Skills
-### Languages
-HTML, JavaScript, PHP, MySQL, XML, JAVA, C, Kotlin, Python
+### 2. Earthquake Dataset Analysis 🌍📊
 
-### Technologies
-React.js, CodeIgniter, Laravel, Android Studio, Git, Firebase, Figma, PySpark, Power BI
+- **Objective:** Analyzing global earthquake data to uncover insights and patterns.
+- **Techniques:**
+  - In-depth analysis using PySpark and Pandas.
+  - Descriptive statistics, time trend analysis, and correlation studies.
+  - Collaborated with interdisciplinary teams, presenting findings effectively.
+- **Outcome:** ![Earthquake Analysis](images/earthquake_analysis.png)
 
-### Operating Systems
-Windows, Linux
+### 3. Suicide Dataset Analysis 💔📈
+
+- **Objective:** Comprehensive analysis of suicide data in India (2001-2012).
+- **Techniques:**
+  - Utilized Pandas for exploratory data analysis.
+  - Employed PySpark for scalable computing, statistical analysis, and machine learning (Linear Regression, K-means clustering).
+- **Outcome:** ![Suicide Dataset Analysis](images/suicide_analysis.png)
+
+## 👨‍💻 Open Source Contributions
+
+- [Repository Name 1] - Contribution details
+- [Repository Name 2] - Contribution details
+
+## 🌟 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1010nish&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
+- [GitHub](https://github.com/yourusername)
+- [Portfolio/Personal Website](https://yourportfolio.com)
+
+Let's collaborate and build something awesome together! Feel free to explore my repositories and reach out for any inquiries or exciting projects.
