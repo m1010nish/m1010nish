@@ -60,7 +60,7 @@
 
 ## 💼 Currently Working On
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
