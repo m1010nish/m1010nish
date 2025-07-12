@@ -3,14 +3,15 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/m1010nish.png" alt="Manish Kumar" width="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/m1010nish.png" alt="Manish Kumar" width="200"/>
 </p>
 
 <div align="center">
   
-[![Profile Views](https://komarev.com/ghpvc/?username=m1010nish&color=brightgreen&style=flat-square)](https://github.com/m1010nish)
-[![GitHub followers](https://img.shields.io/github/followers/m1010nish?label=Follow&style=social)](https://github.com/m1010nish)
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m1010nish)](https://www.linkedin.com/in/m1010nish)
+[![Profile Views](https://komarev.com/ghpvc/?username=m1010nish&color=0e75b6&style=flat-square&abbreviated=true)](https://github.com/m1010nish)
+[![GitHub followers](https://img.shields.io/github/followers/m1010nish?label=Followers&style=flat-square&color=0e75b6&logo=github&logoColor=white)](https://github.com/m1010nish)
+[![GitHub stars](https://img.shields.io/github/stars/m1010nish?label=Stars&style=flat-square&color=0e75b6&logo=github&logoColor=white)](https://github.com/m1010nish)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m1010nish)
 
 </div>
 
