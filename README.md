@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=MANISH%20KUMAR&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=MANISH%20KUMAR&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=m1010nish&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/m1010nish)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=E64A19)](https://m1010nish.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/m1010nish/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=E64A19)](http://m1010nish.yojini.in/?i=1)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:manishsinghjnv11@gmail.com)
 
 </div>
@@ -366,7 +366,7 @@ philosophy: |
 <a href="https://github.com/m1010nish">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square&labelColor=181717" height="35"/>
 </a>
-<a href="https://m1010nish.netlify.app">
+<a href="http://m1010nish.yojini.in/?i=1">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&style=flat-square&labelColor=FF5722" height="35"/>
 </a>
 
@@ -398,8 +398,4 @@ philosophy: |
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
-</div>
-
-<div align="center">
-  <sub>⭐️ From <a href="https://github.com/m1010nish">m1010nish</a> with ❤️</sub>
 </div>
