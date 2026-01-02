@@ -80,7 +80,7 @@ philosophy: |
 *Ficuslot Innovation Pvt Ltd*
 
 ### 📊 **Data Analyst**
-*Job Simulations*
+*Job Simulations*, *DataSpoof EdTech Pvt Ltd*
 
 ### 🌍 **New Delhi, India**
 
