@@ -1,90 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=300&section=header&text=MANISH%20KUMAR&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=MANISH%20KUMAR&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20Data%20Analyst%20%7C%20MCA%20Graduate&descSize=19&descAlignY=62&descAlign=50" width="100%"/>
 </div>
 
-<p align="center">
-  <img src="https://github.com/m1010nish.png" alt="Manish Kumar" width="180" style="border-radius: 50%; box-shadow: 0 0 30px rgba(54, 188, 247, 0.6);"/>
-</p>
+<br/>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=800&lines=Building+Digital+Experiences+%F0%9F%9A%80;Transforming+Data+into+Insights+%F0%9F%93%8A;Crafting+Scalable+Web+Solutions+%F0%9F%92%BB;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96)](https://git.io/typing-svg)
+  <img src="https://github.com/m1010nish.png" alt="Manish Kumar" width="150" style="border-radius:50%;"/>
 
-<img src="https://komarev.com/ghpvc/?username=m1010nish&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/m1010nish/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=E64A19)](http://m1010nish.yojini.in/?i=1)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:manishsinghjnv11@gmail.com)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=4FC3F7&center=true&vCenter=true&random=false&width=780&lines=Web+Developer+%40+Ficuslot+Innovation+%F0%9F%9A%80;Market+Research+%26+Competitive+Analysis+%F0%9F%93%8A;Full+Stack+%7C+Data+Science+%7C+Analytics+%F0%9F%92%BB;Turning+Data+into+Strategic+Decisions+%F0%9F%A4%96)](https://git.io/typing-svg)
 
+  <br/>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1010nish/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://m1010nish.yojini.in/?i=1)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishsinghjnv11@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m1010nish)
+  [![Phone](https://img.shields.io/badge/+91%208540868767-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918540868767)
+
+  <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=m1010nish&color=4FC3F7&style=flat-square&label=Profile+Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/m1010nish?label=Followers&style=flat-square&color=4FC3F7&logo=github"/>
 </div>
 
 <br/>
 
 ---
 
-<div align="center">
-  
-## 🎯 PROFESSIONAL PROFILE
+## 👨‍💻 About Me
 
-</div>
-
-<table width="100%">
+<table>
 <tr>
-<td width="60%" valign="top">
-
-<br/>
+<td width="55%" valign="top">
 
 ```yaml
-name: Manish Kumar
-role: Web Developer & Data Analyst
-company: Ficuslot Innovation Pvt Ltd
-location: New Delhi, India
-education: Master of Computer Applications (MCA)
+name     : Manish Kumar
+role     : Web Developer & Data Analyst
+company  : Ficuslot Innovation Pvt Ltd
+location : Bengaluru, Karnataka, India
+education:
+  - MCA — Tripura University (2022–2024)
+  - BCA — BBAU, Lucknow (2019–2022)
 
-expertise:
-  web_development:
-    - Full Stack Development
-    - API Design & Integration
-    - Secure Authentication Systems
-    - Responsive UI/UX
-    
-  data_analytics:
-    - Statistical Analysis
-    - Predictive Modeling
-    - Data Visualization
-    - Business Intelligence
-    
-  current_work:
-    - Building scalable web applications
-    - Performing job simulations for data analysis
-    - Creating interactive dashboards
-    - Implementing ML algorithms
+core_strengths:
+  - Market Research & Competitive Analysis
+  - Data Collection, Validation & Forecasting
+  - Full Stack Web Development
+  - Business Intelligence & Reporting
+  - Stakeholder Communication & Documentation
+
+currently:
+  - Building scalable web solutions @ Ficuslot
+  - Automating workflows with N8N & Retell AI
+  - Creating market intelligence dashboards
+  - Delivering data-driven strategic insights
 
 philosophy: |
-  "Where code meets data, 
-   innovation happens."
+  "Where code meets data,
+    innovation happens."
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top" align="center">
 
 <br/>
 
-<div align="center">
-  
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" alt="coding"/>
 
-### 🎓 **MCA Graduate**
+<br/><br/>
 
-### 💼 **Web Developer**
-*Ficuslot Innovation Pvt Ltd*
-
-### 📊 **Data Analyst**
-*Job Simulations*, *DataSpoof EdTech Pvt Ltd*
-
-### 🌍 **New Delhi, India**
-
-</div>
+🎓 **MCA — Tripura University**
+💼 **Web Developer** @ *Ficuslot Innovation*
+📊 **Data Science Intern** @ *DataSpoof EdTech*
+📍 **Bengaluru, Karnataka, India**
+📞 **+91 8540868767**
 
 </td>
 </tr>
@@ -94,83 +86,32 @@ philosophy: |
 
 ---
 
-<div align="center">
-
-## ⚡ TECHNOLOGY ECOSYSTEM
-
-</div>
-
-<br/>
+## 💼 Professional Experience
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<div align="center">
+### 🚀 Web Developer
+**Ficuslot Innovation Pvt Ltd** · *Sep 2025 – Present*
+📍 Bengaluru, Karnataka
 
-### 🌐 WEB DEVELOPMENT STACK
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,laravel,php,mongodb,mysql,tailwind,bootstrap,git,github&theme=dark&perline=4" />
-
-<br/><br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-
-<br/>
-
-**🔐 SECURITY & AUTH**
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white)
-**Tokenization** • **API Security** • **Encryption**
-
-</div>
+- Analyzed business requirements & translated them into technical solutions improving operational workflows
+- Collected & validated technical specs from stakeholders with updated project documentation
+- Collaborated cross-functionally to deliver projects within established timelines & quality standards
+- Maintained **MySQL** & **MongoDB** databases ensuring data integrity & optimal performance
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
+### 📊 Data Science Intern
+**DataSpoof EdTech Pvt Ltd** · *May 2024 – Sep 2024*
+📍 Lucknow, Uttar Pradesh
 
-### 📊 DATA SCIENCE ARSENAL
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,anaconda,sklearn&theme=dark&perline=4" />
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<br/>
-
-**📈 VISUALIZATION TOOLS**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-<br/>
-
-**☁️ CLOUD PLATFORMS**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
+- Researched & documented analytical methodologies for **500+ users** in the EdTech sector
+- Collected, validated & maintained educational technology competitive intelligence data
+- **Improved documentation accuracy by 40%** through systematic validation procedures
+- Analyzed user feedback & market requirements to support product development decisions
 
 </td>
 </tr>
@@ -180,92 +121,41 @@ philosophy: |
 
 ---
 
-<div align="center">
-
-## 💼 CURRENT ENDEAVORS
-
-</div>
-
-<br/>
+## 🔑 Key Projects
 
 <table width="100%">
 <tr>
-<td width="33.33%" valign="top">
+<td width="33%" valign="top">
 
-<div align="center">
+### 📈 Market Analysis & Competitive Intelligence
+`2024 · Analytics`
 
-### 🚀 ACTIVE PROJECTS
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
-
-</div>
-
-- 🌐 **Full-Stack Web Apps**  
-  Next.js + Node.js + MongoDB
-  
-- 🔐 **Auth Systems**  
-  JWT tokenization & OAuth
-
-- 🎨 **Modern UI/UX**  
-  Tailwind CSS + Animations
-
-- 🔌 **RESTful APIs**  
-  Express.js + Laravel
-
-- 📱 **Progressive Web Apps**  
-  Service Workers + Offline-first
+- Collected & analyzed market data from multiple sources to identify industry trends & competitive positioning
+- Maintained live database of competitor activities, pricing & market share across sectors
+- Developed market reports with strategic forecasts & recommendations for decision-makers
+- Built interactive dashboards in **Tableau** & **Power BI** to visualize trends & KPIs
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33%" valign="top">
 
-<div align="center">
+### 🏥 Healthcare Market Research
+`2023 · Healthcare Sector`
 
-### 📊 DATA INITIATIVES
-
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
-
-</div>
-
-- 📈 **Interactive Dashboards**  
-  Power BI + DAX + Power Query
-
-- 🤖 **ML Model Development**  
-  Predictive Analytics + Forecasting
-
-- 📉 **Statistical Analysis**  
-  Hypothesis Testing + A/B Testing
-
-- 🎯 **Business Intelligence**  
-  KPI Tracking + Trend Analysis
-
-- 🌊 **Data Engineering**  
-  ETL Pipelines + Data Cleaning
+- Validated **50,000+ healthcare utilization records** to analyze market dynamics & operational patterns
+- Researched regulatory standards in public healthcare across multiple regions
+- Analyzed resource allocation trends to identify market opportunities & service gaps
+- Prepared detailed reports with insights affecting planning for **10,000+ beneficiaries**
 
 </td>
-<td width="33.33%" valign="top">
+<td width="33%" valign="top">
 
-<div align="center">
+### 💳 Financial Services Intelligence
+`2025 · Analytical Research`
 
-### 🎓 LEARNING PATH
-
-<img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="200"/>
-
-</div>
-
-- ⚡ **Advanced Next.js**  
-  SSR, ISR, API Routes
-
-- 🐘 **Laravel Mastery**  
-  Eloquent ORM + Blade
-
-- 🧮 **MLOps & Deployment**  
-  Model Serving + Monitoring
-
-- 📊 **Advanced DAX**  
-  Complex Measures + Time Intelligence
-
-- 🌊 **Real-time Streaming**  
-  Apache Kafka + WebSockets
+- Analyzed **5,000+ transaction records** to identify market patterns & customer behavior trends
+- Maintained comprehensive market indicator database using **SQL** & **Python**
+- Researched competitor offerings & industry trends for comparative market positioning
+- Generated reports with actionable recommendations achieving **82% predictive accuracy**
 
 </td>
 </tr>
@@ -275,9 +165,27 @@ philosophy: |
 
 ---
 
+## 🛠️ Technology Stack
+
 <div align="center">
 
-## 📈 GITHUB STATISTICS
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,laravel,php,tailwind,bootstrap&theme=dark&perline=8"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,neo4j,git,github,html,css,js&theme=dark&perline=8"/>
+
+<br/><br/>
+
+| Layer | Technologies |
+|---|---|
+| **Frontend** | Next.js · React.js · Tailwind CSS · Bootstrap |
+| **Backend** | Node.js · Express.js · Laravel · PHP |
+| **Databases** | MySQL · MongoDB · Neo4j · PostgreSQL |
+| **Auth & Security** | JWT · OAuth · Tokenization · API Security |
+| **Automation** | N8N Workflow Automation · Retell AI (Voice Assistant) |
 
 </div>
 
@@ -285,24 +193,20 @@ philosophy: |
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m1010nish&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&ring_color=36BCF7" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1010nish&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+### 📊 Data Science & Analytics
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,anaconda,sklearn&theme=dark&perline=6"/>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m1010nish&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=c9d1d9" width="60%" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m1010nish&custom_title=Contribution%20Graph&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FF6B6B&area=true&hide_border=true&area_color=36BCF7" width="95%" alt="Contribution Graph"/>
+| Layer | Technologies |
+|---|---|
+| **Core Analytics** | Market Research · Competitive Analysis · Trend Forecasting · Report Writing |
+| **Python Stack** | Pandas · NumPy · Scikit-Learn · Matplotlib |
+| **Visualization** | Power BI (DAX + Power Query) · Tableau · Advanced Excel (Pivot, VLOOKUP, Macros) |
+| **Data Management** | SQL · Data Quality Assurance · Transaction Monitoring · Risk Assessment |
+| **Research Skills** | Investigative Analysis · Entity Due Diligence · Pattern Recognition · Market Intelligence |
+| **Cloud & Tools** | Google Cloud Platform · AWS · Google Workspace · Git |
 
 </div>
 
@@ -310,85 +214,35 @@ philosophy: |
 
 ---
 
-<div align="center">
-
-## 🏆 ACHIEVEMENTS & RECOGNITION
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=m1010nish&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
-
-</div>
-
-<br/>
-
----
+## 📈 GitHub Statistics
 
 <div align="center">
 
-## 🌟 EXPERTISE MATRIX
-
-</div>
-
-<br/>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                   ║
-║   WEB DEVELOPMENT              ████████████████████░░  90%                       ║
-║   DATA ANALYTICS               ███████████████████░░░  85%                       ║
-║   DATABASE MANAGEMENT          ████████████████░░░░░░  80%                       ║
-║   MACHINE LEARNING             ██████████████░░░░░░░░  70%                       ║
-║   CLOUD ARCHITECTURE           ████████████░░░░░░░░░░  65%                       ║
-║   API DESIGN & INTEGRATION     ███████████████████░░░  87%                       ║
-║   DATA VISUALIZATION           ████████████████████░░  88%                       ║
-║   PROBLEM SOLVING              ████████████████████░░  92%                       ║
-║                                                                                   ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
----
-
-<div align="center">
-
-## 🤝 LET'S CONNECT
-
-<br/>
-
-<a href="https://www.linkedin.com/in/m1010nish">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square&labelColor=0077B5" height="35"/>
-</a>
-<a href="mailto:manishsinghjnv11@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square&labelColor=D14836" height="35"/>
-</a>
+<!-- GitHub Stats Card -->
 <a href="https://github.com/m1010nish">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square&labelColor=181717" height="35"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m1010nish&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&cache_seconds=1800&rank_icon=github" alt="GitHub Stats"/>
 </a>
-<a href="http://m1010nish.yojini.in/?i=1">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&style=flat-square&labelColor=FF5722" height="35"/>
+<!-- Top Languages Card -->
+<a href="https://github.com/m1010nish">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1010nish&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=8&cache_seconds=1800&hide=jupyter%20notebook" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
-
-<br/>
-
-### 💡 *"Code is poetry written in logic, data is the story it tells."*
-
-<br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
-<sub><b>Open to collaborations • Available for interesting projects • Always learning</b></sub>
+<!-- GitHub Streak — demolab is most stable -->
+<img width="60%" src="https://streak-stats.demolab.com/?user=m1010nish&theme=tokyonight-duo&hide_border=true&border_radius=10&background=0D1117&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=8B949E&stroke=4FC3F720" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=m1010nish&color=36BCF7&style=flat-square&label=Total+Visitors"/>
-<img src="https://img.shields.io/github/followers/m1010nish?label=Followers&style=flat-square&color=36BCF7&logo=github"/>
-<img src="https://img.shields.io/github/stars/m1010nish?label=Stars&style=flat-square&color=36BCF7&logo=github"/>
+<!-- Activity Graph — vercel app -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=m1010nish&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B6B&area=true&hide_border=true&area_color=1a3a4a&custom_title=Contribution%20Activity%20Graph&radius=8" alt="Contribution Graph"/>
+
+<br/><br/>
+
+<!-- GitHub Profile Trophies -->
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=m1010nish&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="Trophies"/>
 
 </div>
 
@@ -396,6 +250,72 @@ philosophy: |
 
 ---
 
+## 📊 Expertise Matrix
+
+```
+  PROBLEM SOLVING              ███████████████████████░   92%
+  MARKET RESEARCH              ██████████████████████░░   90%
+  WEB DEVELOPMENT              █████████████████████░░░   88%
+  DATA VISUALIZATION           ████████████████████░░░░   87%
+  REPORT WRITING & DOCS        ████████████████████░░░░   85%
+  DATA ANALYTICS               ████████████████████░░░░   85%
+  DATABASE MANAGEMENT          ████████████████░░░░░░░░   80%
+  MACHINE LEARNING             ██████████████░░░░░░░░░░   70%
+  CLOUD ARCHITECTURE           ████████████░░░░░░░░░░░░   65%
+```
+
+<br/>
+
+---
+
+## 🎓 Education
+
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### 🎓 Master of Computer Applications
+**Tripura University**
+Agartala, Tripura
+`2022 – 2024`
+
+</td>
+<td width="50%" align="center">
+
+### 🎓 Bachelor of Computer Applications
+**Babasaheb Bhimrao Ambedkar University**
+Lucknow, Uttar Pradesh
+`2019 – 2022`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🤝 Let's Connect
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+
+<br/>
+
+*"Code is poetry written in logic — data is the story it tells."*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1010nish/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://m1010nish.yojini.in/?i=1)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishsinghjnv11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m1010nish)
+
+<br/>
+
+**Open to collaborations · Available for freelance projects · Always learning**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=72" width="100%"/>
+
 </div>
